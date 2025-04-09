@@ -1,0 +1,41 @@
+--- 
+title: Lab Manual for the Respiratory and Immunology Project and Laboratory Research
+  Team (RIPLRT)
+author: 'Authors: The RIPLRT Institute'
+date: "Updated on `r Sys.Date()`"
+output:
+  bookdown::gitbook:
+    self_contained: true
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+biblio-style: apalike
+link-citations: yes
+description: This book constitute the lab manual for the Respiratory and Immunology
+  Project and Laboratory Research Team (RIPLRT Institute). The output format for this example
+  is bookdown::gitbook.
+site: bookdown::bookdown_site
+---
+
+# Welcome! {-}
+Welcome to the [Respiratory and Immunology Project and Laboratory Research Team (RIPLRT Institute)](https://www.riplrt.com). If you are reading our lab manual because you've recently joined the RIPLRT Institute, welcome! For current RIPLRT members, we encourage regular reference to this manual for guidance on our guidelines, policies, and platforms. We are excited to offer diverse learning experiences in immunology, respiratory health, population and environmental health, alongside opportunities to develop new skills such as coding, data analysis, writing, and science communication. We strive to help you expand your professional network and ensure an enjoyable and enriching time at the RIPLRT. Additionally, thank you for consulting this manual as a reference for your future projects, documents, or other academic research initiatives.
+ 
+This lab manual was inspired by several others, and borrows heavily from them [@alylab2018]. It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the PI (Dr. Félix E. Rivera-Mariani), or any of the current RIPLRT members.
+ 
+RIPLRT members are expected to read this manual and sign a form within their first 7 days in the RIPLRT, indicating that they have done so. Signing this form confirms that RIPLRT members will perform their duties and meet the expectations according to this manual. To have a copy of this form, reach out to the Principal Investigator and mentor for the RIPLRT, Dr. Félix E. Rivera-Mariani, or the RIPLRT leaders. 
+
+**Welcome to the RIPLRT!**
+
+*Note: the date listed above corresponds to the date the manual was updated. The date this manual was initially created was on September 20th, 2018.*
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+---
+
+**Note**: The repository for this lab manual can be found here: https://github.com/riplrt/LabManualRIPLRT. Also, this manual was developed, and continuously updated (as needed), through the R [@R-base] computer language, and employs the Bookdown [@R-bookdown], knitr [@R-knitr], and R-markdown [@R-rmarkdown] packages. 

@@ -1,0 +1,25 @@
+# Vision, Mission, and Core Values
+
+## Vision
+Our Vision at the RIPLRT Institute is to advance our understanding of how airborne pollutants affect immune and respiratory health, particularly among vulnerable populations such as individuals with asthma, respiratory allergies, and other chronic respiratory conditions. We strive to create a collaborative and nurturing environment that promotes professional, academic, and personal growth among our members, collaborators, mentees, and interns, fostering knowledge, innovation, and self-discovery.
+
+## Mission
+Our Mission at the RIPLRT Institute is to investigate the health effects of airborne pollutants by integrating advanced human-based immuno-physiological methods, molecular biology, computational biology, and data science workflows that lead to biomarker discovery and data-driven interventions. We actively seek collaborative opportunities to expand and deepen our respiratory health, immunology, and data analytics expertise. Guided by our core values, we are committed to fostering an environment conducive to innovation, growth, and scientific excellence, aligning closely with our vision.
+
+## Core Values
+The core values of the RIPLRT are 
+
+- Inclusiveness (everyone’s voice counts)
+- Multi-disciplinary focus (integrate different disciplines into our research goals)
+- Diversity (value and respect differences in perspectives and opinions)
+- Integrity (follow strict institutional, scientific, and ethical guidelines)
+- Productivity (input our highest efforts to reach our goals)
+- Equity (everyone will have the resources and opportunities they need to succeed)
+- Innovation (remain open-minded, and learn from both successes and failures)
+- Excellence (target the highest quality of scientific research)
+- Collaboration (what is done in isolation is often accomplished better in partnership)
+- Leadership (nourish from a culture of intra and inter-motivation and inspiration)
+
+We feel that these Core Values are vital to success in science, and it is important that every member of the RIPLRT Institute strive to fulfill these **Core Values** at all times.
+
+It is also important to maintain a healthy work environment. *Professionalism* must always be implemented to maintain, and refrain from unnecessary or inappropriate commentary: this will greatly contribute to a healthy environment within the RIPLRT. 
